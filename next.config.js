@@ -3,4 +3,5 @@ module.exports = {
   images: {
     domains: ["randomuser.me"],
   },
+  trailingSlash: true,
 };
