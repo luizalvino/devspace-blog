@@ -2,4 +2,4 @@
 . "$(dirname "$0")/_/husky.sh"
 
 
-npm run cache-posts && git add cache/data.js
+yarn cache-posts && git add cache/data.js
